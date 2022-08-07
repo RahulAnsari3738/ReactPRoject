@@ -3,7 +3,8 @@ import React,{useState} from 'react';
 
 function ConditionRendering()
  {
-    const [loggin,setLoggin]=useState(true)
+    // const [loggin,setLoggin]=useState(true)
+    let loggin=true;
 
 return (
 <div>
